@@ -1,7 +1,7 @@
 {
-  "name": "HayMedics Hospital",
-  "short_name": "HayMedics",
-  "description": "Hospital EMR + Laboratory system by HayMedics Academy.",
+  "name": "Fitmedics",
+  "short_name": "Fitmedics",
+  "description": "Fitmedics POS and Management by HayMedics Academy.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
